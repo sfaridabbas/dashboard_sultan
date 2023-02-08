@@ -36,7 +36,7 @@ width: 29px;
 height: 29px;
 left: 100px;
 padding-bottom: 5px;
-background-image: url(/sultanlogo2.jpeg);
+background-image: url(images/sultanlogo2.jpeg);
 }
 
 .container{
@@ -45,7 +45,7 @@ width: 100%;
 height: 40vh;
 left: 0px;
 top: 60px;
-background-image: url(/background.jpeg);
+background-image: url(images/background.jpeg);
 background-repeat: repeat-x;
 }
 
@@ -93,7 +93,7 @@ width: 120px;
 height: 110px;
 left: 1300px;
 top: 180px;
-background-image: url(/sultanlogo1.jpeg);
+background-image: url(images/sultanlogo1.jpeg);
 background-repeat: no-repeat;
 }
 
@@ -103,7 +103,7 @@ width: 80px;
 height: 80px;
 left: 58px;
 top: 400px;
-background-image: url(/budget.jpeg);
+background-image: url(images/budget.jpeg);
 }
 
 .write{
@@ -120,7 +120,7 @@ background-image: url(/budget.jpeg);
     height: 80px;
     left: 300px;
     top: 400px;
-    background-image: url(/research.jpeg);
+    background-image: url(images/research.jpeg);
     background-repeat: no-repeat;
     }
 
@@ -138,7 +138,7 @@ background-image: url(/budget.jpeg);
     height: 80px;
     left: 900px;
     top: 400px;
-    background-image: url(/lead\ generation.jpeg);
+    background-image: url(images/lead\ generation.jpeg);
     background-repeat: no-repeat;
 
 }
@@ -164,7 +164,7 @@ background-image: url(/budget.jpeg);
      left: 30px;
      top: 665px;
 
-background: url(/home.webp);
+background: url(images/home.webp);
 }
 
 .homew{
@@ -182,7 +182,7 @@ height: 40px;
 left: 280px;
 top: 665px;
 
-background: url(explore.jpeg);
+background: url(images/explore.jpeg);
 }
 
 .explorew{
@@ -200,7 +200,7 @@ background: url(explore.jpeg);
     left: 530px;
     top: 665px;
 
-    background: url(explore.jpeg);
+    background: url(images/imagesexplore.jpeg);
 }
 
 .subw{
@@ -219,7 +219,7 @@ background: url(explore.jpeg);
     left: 780px;
     top: 665px;
 
-    background: url(explore.jpeg);
+    background: url(images/explore.jpeg);
 
 }
 
@@ -238,7 +238,7 @@ background: url(explore.jpeg);
     left: 1030px;
     top: 665px;
 
-    background: url(explore.jpeg);
+    background: url(images/explore.jpeg);
 
 }
 
@@ -257,7 +257,7 @@ background: url(explore.jpeg);
     left: 1280px;
     top: 665px;
 
-    background: url(explore.jpeg);
+    background: url(images/explore.jpeg);
 }
 .profw{
     position: absolute;
